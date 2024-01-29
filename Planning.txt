@@ -1,0 +1,15 @@
+FinSight360: Comprehensive Market Sentiment Analysis for Predictive Trading
+
+Data Collection (Sentiment):
+
+Create a database, txt files for storing each company(**S & P 500 only**)'s monthly news features (index it however, use DB if necessary)
+
+Choose a 2 month period for data collection
+
+Get a stock prices historical API, finacial statements: yahoo finance, https://site.financialmodelingprep.com/developer/docs
+
+Sources -> newsapi.org (free) 100 requests per day (5 Accounts), 
+https://medium.com/rakuten-rapidapi/top-10-best-news-apis-google-news-bloomberg-bing-news-and-more-bbf3e6e46af6
+
+Socials: Twitter, Reddit
+
