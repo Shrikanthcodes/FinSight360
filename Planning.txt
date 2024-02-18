@@ -11,5 +11,8 @@ Get a stock prices historical API, finacial statements: yahoo finance, https://s
 Sources -> newsapi.org (free) 100 requests per day (5 Accounts), 
 https://medium.com/rakuten-rapidapi/top-10-best-news-apis-google-news-bloomberg-bing-news-and-more-bbf3e6e46af6
 
+(ISSUE: news articles for generic company names is wrong (3M), clean it by finding ambiguous company names and generating alternatives
+like 3M Industries, 3M manufacturing and etc)
+
 Socials: Twitter, Reddit
 
